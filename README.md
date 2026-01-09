@@ -1,28 +1,28 @@
 # Vendor Performance Analysis
 
 ## 📘 Overview
-This project analyzes vendor performance using Python and Power BI. It processes sales data to extract meaningful insights, identify trends, and evaluate vendor performance metrics. The analysis supports data-driven business decisions and showcases data cleaning, exploratory analysis, and visualization techniques. :contentReference[oaicite:0]{index=0}
+This project analyzes vendor performance using Python and Power BI. It processes sales data to extract meaningful insights, identify trends, and evaluate vendor performance metrics. The analysis supports data-driven business decisions and showcases data cleaning, exploratory analysis, and visualization techniques.
 
 ## 🛠 Technologies Used
 - Python (Pandas, NumPy, Matplotlib / Seaborn)
 - SQL (if applicable)
 - Power BI (dashboard creation)
 - Jupyter Notebook
-- Excel (dataset review and cleaning) :contentReference[oaicite:1]{index=1}
+- Excel (dataset review and cleaning)
 
 ## 📄 Project Contents
 - **Vendor Performance Analysis.ipynb** – Main analysis notebook  
 - **Data Files** – Sales and vendor datasets  
 - **Visualizations** – Charts and graphs showing vendor KPIs  
 - **Power BI Dashboard** – Interactive dashboard for performance tracking  
-- **Documentation** – Explanation of findings and insights :contentReference[oaicite:2]{index=2}
+- **Documentation** – Explanation of findings and insights
 
 ## 🔍 What It Does
 1. Loads and cleans vendor sales dataset  
 2. Conducts exploratory data analysis (EDA)  
 3. Calculates key performance metrics for vendors  
 4. Visualizes trends and highlights performance gaps  
-5. Creates a Power BI dashboard for visual storytelling :contentReference[oaicite:3]{index=3}
+5. Creates a Power BI dashboard for visual storytelling
 
 ## 🚀 How to Run
 1. Clone the repository  
