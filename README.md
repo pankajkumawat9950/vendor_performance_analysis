@@ -37,4 +37,4 @@ This project analyzes vendor performance using Python and Power BI. It processes
 - Demonstrated data cleaning to visualization workflow
 
 ## 📬 Contact
-Connect with me on LinkedIn: `https://www.linkedin.com/in/pankaj-kumawat`
+Connect with me on LinkedIn: `https://www.linkedin.com/in/pankajkumawat9950/`
